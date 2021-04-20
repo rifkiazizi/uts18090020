@@ -20,7 +20,7 @@
     </div>
     <nav class="navbar">
         <div class="max-width">
-            <div class="logo"><a href="#">Pro<span>fil.ku</span></a></div>
+            <div class="logo"><a href="#">My Profile</a></div>
             <ul class="menu">
                 <li><a href="#home" class="menu-btn">Home</a></li>
                 <li><a href="#about" class="menu-btn">About</a></li>
@@ -49,7 +49,7 @@
 
     <!-- services section start -->
     <section class="services" id="services">
-        <div class="max-width">
+        <div class="max-width">prof
             <h2 class="title">Pegawai App</h2>
             <div class="serv-content">
                 <div class="card">
