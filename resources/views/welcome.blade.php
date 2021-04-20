@@ -23,7 +23,6 @@
             <div class="logo"><a href="#">My Profile</a></div>
             <ul class="menu">
                 <li><a href="#home" class="menu-btn">Home</a></li>
-                <li><a href="#about" class="menu-btn">About</a></li>
                 <li><a href="https://uts18090020.herokuapp.com/pegawai" class="menu-btn">App Pegawai</a></li>
             </ul>
             <div class="menu-btn">
