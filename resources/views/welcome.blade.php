@@ -48,27 +48,27 @@
 
     <!-- services section start -->
     <section class="services" id="services">
-        <div class="max-width">prof
-            <h2 class="title">Pegawai App</h2>
+        <div class="max-width">
+            <h2 class="title">DataHP App</h2>
             <div class="serv-content">
                 <div class="card">
                     <div class="box">
                         <i class="fas fa-paint-brush"></i>
-                        <div class="text">Web Design</div>
+                        <div class="text">Samsung</div>
                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem quia sunt, quasi quo illo enim.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <i class="fas fa-chart-line"></i>
-                        <div class="text">Advertising</div>
+                        <div class="text">Apple</div>
                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem quia sunt, quasi quo illo enim.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <i class="fas fa-code"></i>
-                        <div class="text">Apps Design</div>
+                        <div class="text">Xiomi</div>
                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem quia sunt, quasi quo illo enim.</p>
                     </div>
                 </div>
