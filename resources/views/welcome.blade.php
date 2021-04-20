@@ -40,8 +40,8 @@
       <div class="max-width">
           <div class="row">
             <div class="home-content">
-                <div class="text-1">Hello, my name is</div>
-                <div class="text-2">Ilham Hanif Pamulia</div>
+                <div class="text-1">Hello, Nama saya</div>
+                <div class="text-2">Rifki Azizi</div>
                 <div class="text-3">NIM : <span class="typing"></span></div>
                 <a href="#">Hire me</a>
             </div>
