@@ -252,7 +252,7 @@
 
     <!-- footer section start -->
     <footer>
-        <span>Created By <a href="https://github.com/ilhamhanifpamulia/uts-18090027.git">Ilham Hanif Pamulia</a> | <span class="far fa-copyright"></span> 2020 All rights reserved.</span>
+        <span>Created By <a href="#">Rifki azizi</a> | <span class="far fa-copyright"></span> 2020 All rights reserved.</span>
     </footer>
 
     <script src="script.js"></script>
